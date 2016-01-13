@@ -1,0 +1,68 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:weightSum="1"
+    tools:context=".DoingActivity" >
+
+    <TextView
+        android:id="@+id/textSubheading"
+        style="@style/purpleSubHeading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:paddingTop="10dp"
+        android:text="@string/title_activity_doing" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:weightSum="1" >
+
+        <TextView
+            android:id="@+id/textView"
+            style="@style/purple"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:paddingBottom="10dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingTop="10dp"
+            android:text="@string/activity_intro" />
+
+        <Button
+            android:id="@+id/buttonStrengthReminders"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/purple_button"
+            android:enabled="true"
+            android:onClick="startStrengthReminders"
+            android:text="@string/title_activity_strength_reminders"
+            android:textColor="@color/white"
+            android:width="270dp" />
+
+        <Button
+            android:id="@+id/buttonStressReminders"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/purple_button"
+            android:enabled="true"
+            android:onClick="startStressReminders"
+            android:text="@string/title_activity_stress_reminders"
+            android:textColor="@color/white"
+            android:width="270dp" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,39 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/BreathingLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context=".BreathingRateActivity" >
+
+    <Button
+        android:id="@+id/ButtonInstructions"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="16dp"
+        android:width="270dp"
+        android:onClick="showInstructions"
+        android:text="@string/title_activity_breathing_instructions" />
+
+    <Button
+        android:id="@+id/ButtonMeasure"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="16dp"
+        android:width="270dp"
+        android:onClick="showMeasure"
+        android:text="@string/title_activity_breathing_measure" />
+
+    <Button
+        android:id="@+id/ButtonLearn"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="16dp"
+        android:width="270dp"
+        android:onClick="showLearning"
+        android:text="@string/title_activity_breathing_learn" />
+
+</LinearLayout>

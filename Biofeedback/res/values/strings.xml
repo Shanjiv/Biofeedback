@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- General -->
+    <string name="app_name">Positively Pregnant</string>
+    <string name="action_settings">Reset</string>
+    <string name="action_about">About</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="back">&lt;&lt;&lt; BACK</string>
+    <string name="done">Done</string>
+
+    <!-- Main -->
+    <string name="welcome_welcome">Welcome</string>
+    <string name="welcome_heading">Here you’ll find tools for assessing your strengths, stressors, and strategies, activities to relax and enhance wellbeing, and information on how to keep yourself on track to well-balanced motherhood.</string>
+    <string name="welcome_text">For the most personalised experience, take some time to answer a few configuration questions in the self assessment </string>
+    <string name="welcome_text_part2">.. or just get going with some exercises.</string>
+    <string name="welcome_welcome_middle">Welcome back</string>
+    <string name="welcome_text_middle">Why don\'t you take some time and answer more configuration questions. It will give a more personalised experience</string>
+    <string name="welcome_text_part2_middle">.. you can always go directly to the exercises.</string>
+    <string name="welcome_welcome_top">Welcome, NAME</string>
+    <string name="welcome_text_top">You can adjust your configuration here </string>
+    <string name="welcome_text_part2_top">.. or do some recommended exercises.</string>
+    <string name="infoText">Here are some brief articles about psychological well-being and pregnancy.</string>
+
+    <!-- assessment -->
+    <string name="assessment1">Strengths</string>
+    <string name="assessment2">Stress Management</string>
+    <string name="assessment3">Strategies</string>
+    <string name="assessment4">Destress</string>
+    <string name="assessment5">Healthy Choices</string>
+    <string name="physical_subheading">Physical</string>
+    <string name="intellectual_subheading">Intellectual</string>
+    <string name="social_subheading">Social</string>
+    <string name="individual_subheading">Individual</string>
+    <string name="strategy_subheading">Strategies</string>
+    <string name="physical_question_1"><b>Appearance:</b>  How do you feel about how you look? Is this your strong suit, something you care about and spend energy on looking nice?</string>
+    <string name="physical_question_2"><b>Health:</b>  How is your overall health—are you generally sick, or healthy?  Most of the time (irrespective of whether you’ve got a cold right now, or any minor pregnancy woes), do you consider yourself to be in good health?</string>
+    <string name="physical_question_3"><b>Motor skills/coordination:</b> Are you the sort of person who can pick up a new sport quickly?  Dance? Feel confident about how you move and do things, physically?</string>
+    <string name="physical_question_4"><b>Fitness:</b> Are you generally physically fit, with good stamina?</string>
+    <string name="intellectual_question_1"><b>Problem-solving:</b> How are you at figuring out how to get something done—when faced with a problem, thinking of what you need to do to fix it?</string>
+    <string name="intellectual_question_2"><b>Creativity:</b> Do you think of new and different ways to do things—put your own twist on it?</string>
+    <string name="intellectual_question_3"><b>Verbal skills:</b> How good are you at understanding things you hear and read, and communicating—telling others what you want to tell them, in writing or orally?	</string>
+    <string name="intellectual_question_4"><b>Visual-spatial:</b> How good are you at doing things in the non-verbal world—like puzzles, drawing, sewing, mechanical things, using a map?</string>
+    <string name="intellectual_question_5"><b>Memory:</b> How is your memory?  Generally, can you remember what you need to do?  What you once learned?  What you need at the store?  That person’s name?</string>
+    <string name="intellectual_question_6"><b>Concentration:</b> Can you usually focus on what you need to do, and maintain that focus for a reasonable amount of time—30—60 minutes, depending on the activity?</string>
+    <string name="intellectual_question_7"><b>Knowledge:</b> Are you a font of information?  Do you know a lot of things…useful or not?</string>
+    <string name="intellectual_question_8"><b>Curiosity:</b> Do you find yourself interested in new things, easily engaged with finding out about some new idea, activity, place to go?</string>
+    <string name="social_question_1"><b>Compassion and kindness:</b> Do you think of others frequently, try to take on their perspective, wonder how they are doing? </string>
+    <string name="social_question_2"><b>Friendliness:</b> Are you welcoming to others, curious about them, inviting them to talk about themselves, allowing them to get to know you?</string>
+    <string name="social_question_3"><b>Loyalty:</b> Are you steadfast and faithful, sticking by people you care about, and true to ideals you hold?</string>
+    <string name="social_question_4"><b>Honesty:</b> Are you consistently truthful and sincere, not prone to change the story or play with the facts a bit?</string>
+    <string name="social_question_5"><b>Courtesy:</b> Are you polite, careful to put others at ease and know the appropriate rules for the occasion?</string>
+    <string name="social_question_6"><b>Discretion/tact:</b> Are you thoughtful about what you say and do, keeping secrets when appropriate, considering others and avoiding giving offense? </string>
+    <string name="social_question_7"><b>Generosity:</b> Are you open-handed, giving freely of your time and resources?</string>
+    <string name="social_question_8"><b>Helpfulness:</b> Do you help others when you see their need?</string>
+    <string name="social_question_9"><b>Modesty:</b> Are you low-key about your talents and accomplishments, avoiding boasting or vanity?</string>
+    <string name="social_question_10"><b>Sensitivity:</b> Are you attuned to the feelings and reactions of others, as well as your own?</string>
+    <string name="social_question_11"><b>Forgiveness:</b> Do you forgive others when they have done something that hurt you, or went against your values?</string>
+    <string name="social_question_12"><b>Leadership:</b> Are you the sort of person who can take the lead in a group and inspire people to work together and accomplish their goals?</string>
+    <string name="social_question_13"><b>Affection:</b> Are you a person who can express your love and affection easily and openly, telling people you care and showing your love?</string>
+    <string name="individual_question_1"><b>Persistence/perseverance:</b> Do you keep on going, pushing through problems, no matter what?</string>
+    <string name="individual_question_2"><b>Faith:</b> Do you have faith in the way the world works, whether in formal religion or a personal spiritual understanding?</string>
+    <string name="individual_question_3"><b>Sense of humour:</b> Can you see the humour in life, both finding it yourself and appreciating the humour of others? </string>
+    <string name="individual_question_4"><b>Patience:</b> Are you able to tolerate delays and bumps in the road without becoming overly upset or frustrated? </string>
+    <string name="individual_question_5"><b>Reliability:</b> Do you consistently do what you say you will do—so others can count on you if you say you will do something? </string>
+    <string name="individual_question_6"><b>Responsibility:</b> Do you acknowledge what you have done, right or wrong? </string>
+    <string name="individual_question_7"><b>Courage:</b> Do you persist in the face of fear, and attempt things others might find too daunting to approach?</string>
+    <string name="individual_question_8"><b>Confidence:</b> Do you have faith in yourself, and expect that you will be able to accomplish what you set out to do? </string>
+    <string name="individual_question_9"><b>Enthusiasm:</b> Do you plunge into things with energy and joy, and the expectation that whatever it is will be a good thing?</string>
+    <string name="individual_question_10"><b>Flexibility:</b> Can you change tactics when what you are doing isn’t working?  Try different things and ways of behaving?  </string>
+    <string name="individual_question_11"><b>Hopefulness/optimism:</b> Do you tend to expect things will come out all right in the end?  Do you see the bright side, usually, and see the glass as half full?  </string>
+    <string name="individual_question_12"><b>Resourcefulness:</b> Can you find a way to use what you have, to get the job done?</string>
+    <string name="individual_question_13"><b>Resiliency/toughness:</b> When things go wrong, do you stand up to it and keep on going?  Are you able to bounce back from hard times? </string>
+    <string name="individual_question_14"><b>Stewardship:</b> Do you use what you have wisely, not wasting resources of whatever sort? </string>
+    <string name="individual_question_15"><b>Thankfulness:</b> Do you recognise and appreciate what you have, and the good things in the world around you?</string>
+    <string name="individual_question_16"><b>Organisation:</b> Are you good at making plans, keeping things in order and keeping track of the events and objects of your life?</string>
+    <string name="stress_question_1"><b>Exercise: </b> How do you feel about it? </string>
+    <string name="stress_question_2"><b>Mini-break: </b> How do you feel about it? </string>
+    <string name="stress_question_3"><b>Biofeedback: </b> How do you feel about it? </string>
+    <string name="stress_question_4"><b>Journaling: </b> How do you feel about it? </string>
+    <string name="stress_question_5"><b>Music:  </b> How do you feel about it? </string>
+    <string name="stress_question_6"><b>Guided imagery:  </b> How do you feel about it? </string>
+    <string name="stress_question_7"><b>Body scan:  </b> How do you feel about it? </string>
+    <string name="stress_question_8"><b>Stretching: </b> How do you feel about it? </string>
+    <string name="stress_question_9"><b>Relaxation breathing: </b> How do you feel about it? </string>
+    <string name="stress_question_10"><b>Meditation:  </b> How do you feel about it? </string>
+    <string name="stress_question_11"><b>Prayer:</b> How do you feel about it? </string>
+    <string name="stress_question_12"><b>Massage: </b> How do you feel about it? </string>
+    <string name="stress_question_13"><b>Yoga: </b> How do you feel about it? </string>
+    <string name="stress_question_14"><b>Gardening: </b> How do you feel about it? </string>
+    <string name="stress_question_15"><b>Laughter: </b> How do you feel about it? </string>
+    <string name="stress_question_16"><b>Reading: </b> How do you feel about it? </string>
+    <string name="stress_question_17"><b>Make a list: </b> How do you feel about it? </string>
+    <string name="stress_question_18"><b>Call a friend: </b> How do you feel about it? </string>
+    <string name="stress_question_19"><b>Take a bath:</b> How do you feel about it? </string>
+    <string name="stress_question_20"><b>Play: </b> How do you feel about it? </string>
+    <string name="stress_question_21"><b>Go outside: </b> How do you feel about it? </string>
+    <string name="stress_question_22"><b>Feed yourself: </b> How do you feel about it? </string>
+    <string name="stress_question_23"><b>Create something [art, or craft, or food?]: </b> How do you feel about it? </string>
+    <string name="stress_question">How do you feel about it?</string>
+
+    <!--
+    <string name="stress_question_1"><b>Exercise: </b> Moderate exercise can help with anxiety and stress almost immediately, and if you exercise regularly, it can improve mood and energy levels.  Of course, while you are pregnant, you should check with your maternity caregiver, especially if you are starting something new—but even 10 or 15 minutes a day of walking (ideally outside, in the sunlight) can give you a boost.</string>
+    <string name="stress_question_2"><b>Mini-break: </b>If you find yourself getting wound up—or just have a few minutes between things—give yourself a mini-break.  Breathe, slowly, and stop:  focus on what is happening now, around you.  Look at a tree, or the sky, or even the lovely symmetry of the steering wheel…just be.  Choose a mantra—some words to say to yourself. </string>
+    <string name="stress_question_3"><b>Biofeedback: </b>Practice getting your body to settle down, with some kind of cue (that’s the feedback) about your level of physiological stress (that’s the bio).  With the __ module, it’s showing you your heart rate, so you can see how, when you breathe slowly and settle your thoughts, your body gets settled, too.</string>
+    <string name="stress_question_4"><b>Journaling: </b>Many people find that writing about their feelings and thoughts helps to make them clearer, and can sometimes help clear them out of your head.  Get a notebook, and write for 10 minutes—don’t worry about anyone else every seeing it—just write what you really feel. Or do it on a computer or tablet—whatever works for you.  Then close the book/file.  This can help for worries, frustrations, and confusion.</string>
+    <string name="stress_question_5"><b>Music:  </b>Whistle while you work?  Music can be a break in itself—take a few minutes and listen to your favourite song, or something inspiring—or it can add a background that helps make something else you have to do more positive—something upbeat while folding the laundry, or getting through the bills.  If you’re a singer, of course, this could be a more active option:  sing to yourself, practice some lullabies—or if you play an instrument, play what makes you happy.  One study found that 30 minutes a day of listening to music helped to improve the mood of pregnant women.</string>
+    <string name="stress_question_6"><b>Guided imagery:  </b>In guided imagery, you listen to a narration describing a relaxing scene, and imagine yourself in it—you can choose among several in the Imagery module—so you could transport yourself to walk along a beach, or in a favourite place, to take a fantasy break for a few minutes.</string>
+    <string name="stress_question_7"><b>Body scan:  </b>n a body scan, you take a few minutes to listen to your body, mentally experiencing how you feel, physically, in the moment.  You can do this on your own, or use an audio guide module, “Body Scan”</string>
+    <string name="stress_question_8"><b>Stretching: </b>Take 2-3 minutes and stretch whatever part of your body that feels like it needs it—feel your muscles as you raise your arms over your head, or move slowly and gently into an easy stretch.  Breathe.</string>
+    <string name="stress_question_9"><b>Relaxation breathing: </b>Take a few minutes and pay attention to your breathing.  Notice how as you breathe in, slight tension builds, and then as you exhale, your body relaxes.  Slow down your breathing, so that you breathe in slowly, hold it, and exhale.  If you like a structure, you can do what is called “square breathing”:  inhale to a slow count of four, hold it to a count of four, exhale to a count of four, wait to a count of four, and then start over.    Do that a few times.  Breathe from your belly (as much as you can, being as it may be a bit full right now).  Feel your lungs expand.  Especially pay attention to how the tension drains out as you exhale.</string>
+    <string name="stress_question_10"><b>Meditation:  </b>There are many traditions of meditation you may have tried or heard about.  Meditation practice can focus on a mantra (a special word), or mindfulness (paying attention to what is happening now), or breath, or a particular prayer.  If this interests you, read or learn more about a form of meditation that appeals to you.  Meditation can be done sitting, walking, standing, or even lying down. </string>
+    <string name="stress_question_11"><b>Prayer:</b>Prayer may be a traditional set of words for your faith, or a personal conversation with the divine.  Many people find prayer helpful in times of stress and change. You may pray for help, for strength, for peace, for a particular outcome, or use words as a way to express gratitude, faith, worry, sadness—any thought or feeling.  Consider whether you would like to learn a particular prayer, or find a book of prayers to read, or just take some time for connection with your spirituality.</string>
+    <string name="stress_question_12"><b>Massage: </b>Gentle massage can help with physical and emotional tension.  There are professional massage therapists who specialise in working with pregnant women.  You might also ask your partner for a massage—could be just your feet, or shoulders, or lower back, or whatever you are comfortable with.  One study taught partners of pregnant women to provide gentle massage, and found that not only did the women feel better, but the relationship improved. </string>
+    <string name="stress_question_13"><b>Yoga: </b>Yoga is a slow, meditative form of exercise that has been used with pregnant women across cultures and settings; studies have shown that many women feel this improves their mental and physical wellbeing.  Often special yoga classes are available for pregnant women.  Other, similar forms of meditative exercise include Tai Chi and Qi Gong.</string>
+    <string name="stress_question_14"><b>Gardening: </b>Getting out in the garden and helping things grow—or clearing away what shouldn’t be growing—might be what takes you out of your worries.  You can see what you’ve done.   Of course, be careful not to overdo it and strain something—but deadheading the roses might be just what the doctor ordered.</string>
+    <string name="stress_question_15"><b>Laughter: </b>Laughter may actually be the best medicine—or at least a good one.  Read a funny book, watch a comedy, go out with some friends who make you laugh.  Make a plan now—what is likely to tickle your funny bone?</string>
+    <string name="stress_question_16"><b>Reading: </b>Transport yourself with a story, or something that fascinates you.  For some people, reading is a trip away from the world, and that could be just what you need.  What is best for you—a book with short chapters, which you can read for 10 minutes?  Or a fantasy or thriller you can’t put down?</string>
+    <string name="stress_question_17"><b>Make a list: </b>If something is worrying you—if you are afraid you won’t get it done, or there just seem to be too many things you’re juggling, and it all seems impossible—sometimes making a list can help.  Break it down into doable bits, and tick them off.  Maybe even make a schedule of when you can do each. </string>
+    <string name="stress_question_18"><b>Call a friend: </b>For some people, it is really helpful to talk through their quandaries with someone who knows them—what is happening?  What shall I do?  Choose who you call thoughtfully—someone who is constructive, who will help you without ratcheting up the stress.  Sometimes, calling a friend might be for when you need NOT to talk about problems, but just to go out (or stay in) and do something you enjoy.</string>
+    <string name="stress_question_19"><b>Take a bath:</b>For some, a bath can be a time just for you, to relax, to feel warmth and nice smells, maybe with some bubbles or oil…focus on the now, not on planning or worrying.  If you find your mind going back to the stresses, play with the bubbles.</string>
+    <string name="stress_question_20"><b>Play: </b>What do you do that is playful?  Sometimes being with someone…a child, or a pet…who is completely absorbed in what you are doing—playing with a ball, or a toy, or blowing bubbles—can be a break from stress.  You could also play a game—in the real world, or on your phone or tablet.</string>
+    <string name="stress_question_21"><b>Go outside: </b>For many people, being outside, especially in a natural setting, can lift your mood.  Especially in winter, getting a bit of sun and air can also do wonders for your wellbeing, even if the weather is not the best.</string>
+    <string name="stress_question_22"><b>Feed yourself: </b>You (and your baby) need food to live and grow.  Remember to nurture  yourself with healthy, satisfying snacks.  What appeals to you to eat that will give you a moment of satisfaction and soothing, without guilt or worry?</string>
+    <string name="stress_question_23"><b>Create something [art, or craft, or food?]: </b>Making something can provide distraction, and the satisfaction of having a tangible product.  Could be sewing or knitting something for the baby, or baking, or drawing or painting or crafting—whatever is your thing.  You might even try something new—take a class, or look it up on the internet.  Trash to treasures?  </string>
+    -->
+    <!-- other -->
+    <string name="title_activity_information">Information</string>
+    <string name="title_activity_doing">Activities</string>
+    <string name="title_activity_self_assessment">Self Assessment</string>
+    <string name="title_activity_breathing_rate">Breathing Rate</string>
+    <string name="title_activity_breathing_instructions">Breathing Instructions</string>
+    <string name="title_activity_breathing_measure">Breathing Measure</string>
+    <string name="title_activity_breathing_learn">Breathing Learn</string>
+    <string name="title_activity_heart_rate">Heart Rate</string>
+    <string name="title_activity_skin_temperature">Skin Temperature</string>
+    <string name="title_activity_music">Music</string>
+    <string name="button_record">Record</string>
+    <string name="plusSymbol">+</string>
+    <string name="minusSymbol">-</string>
+    <string name="intervalLabel">Interval</string>
+    <string name="title_activity_other_functionality">OtherFunctionalityActivity</string>
+    <string name="assessment_heading">Strengths</string>
+    <string name="assessment_text">We all have different things going for us: areas in which we are strong, feel confident, and have the supports and skills we need.
+        This quiz is to help you to assess, and remember, what those areas are for you.</string>
+    <string name="assessment_text_rate">For each of the following areas, rate yourself on a scale of 1 to 5.</string>
+    <string name="assessment_heading1">Stress Management</string>
+    <string name="assessment_text1">Everyone has stress.  There are lots of healthy ways to manage stress, but not all of them will be right for you.  This is a menu of different options for coping with stress—some you will have tried, some not—some will work for you, some not.  For now, just go through and rate each option, to create your personalized menu of stress busters.</string>
+    <string name="strategy_assessment_text_rate">Everyone has stress.  There are lots of healthy ways to manage stress, but not all of them will be right for you.  This is a menu of different options for coping with stress—some you will have tried, some not—some will work for you, some not.  For now, just go through and rate each option, to create your personalized menu of stress busters.</string>
+    <string name="activity_intro">Here are some options for activities that might enhance your well-being</string>
+    <string name="stress_intro"><b>Different things work for different people.</b>  In this assessment, you will see a range of options—things that work for some people to relax and manage stress.  You’ll rate how effective each one is, or might be, for you.  \nAfter you’ve completed this self-assessment, you can access “Tools for Wellbeing”-personalised ideas to help you manage stress and stay healthy. If you are feeling stressed, or just have a few minutes to take care of yourself, choose “Tools for Wellbeing” for ideas of what you might do.</string>
+    <string name="strength_intro"><b>We all have different areas of strength</b> that support us in times of challenge and stress.  This assessment will help to identify what you see as your strengths, and the people and things you can rely on to support you.  \nAfter you’ve completed this self-assessment, you can access “Strength Reminders”—reminders of what your strengths are, and how you can use those to build your resilience.</string>
+    <string name="title_activity_strength_reminders">Strength Reminders</string>
+    <string name="title_activity_stress_reminders">Strategy Suggestions</string>
+    <string name="listheading1">What type of exercise is most helpful when you’re stressed?</string>
+    <string name="listheading2">What do you want to say to yourself when you’re taking a break?  Here are some suggestions, or you can write your own.</string>
+    <string name="listheading3">What type of music do you enjoy the most? </string>
+    <string name="listheading4">What appeals to you to eat that will give you a moment of satisfaction and soothing, without guilt or worry?</string>
+    <string name="list1text1">Walking</string>
+    <string name="list1text2">Running</string>
+    <string name="list1text3">Swimming</string>
+    <string name="list1text4">Biking</string>
+    <string name="list1text5">Other Exercises:</string>
+    <string name="list2text1">I am ok—I have what I need to manage this</string>
+    <string name="list2text2">Remember what is important!</string>
+    <string name="list2text3">Simplicity, patience, compassion</string>
+    <string name="list2text4">Just keep going...</string>
+    <string name="list2text5">Breathe.  Breathe again.  Keep breathing</string>
+    <string name="list2text6">I am not alone</string>
+    <string name="list2text7">Love is growing inside of me</string>
+    <string name="list2text8">Write your own :</string>
+    <string name="list3text1">Relaxing music</string>
+    <string name="list3text2">Upbeat music</string>
+    <string name="list3text3">Music to move the job along…</string>
+    <string name="list3text4">Sing!</string>
+    <string name="list3text5">Play instrument of your choice :</string>
+    <string name="list4text1">Fruit:  an apple, orange, banana…something convenient and sweet.</string>
+    <string name="list4text2">Cheese:  a bit of safe (hard cheese, or soft processed/pasteurised cheeses like cottage cheese, cream cheese) cheese, with crackers or bread or fruit</string>
+    <string name="list4text3">Chocolate:  a reasonable amount of good, dark chocolate, good for body and soul</string>
+    <string name="list4text4">Nuts:  a small handful of nuts, maybe with some raisins or other dried fruit, can soothe the ravenous beast at times…</string>
+    <string name="list4text5">Popcorn: crunchy snack for an evening at home…</string>
+    <string name="list4text6">Your ideas: </string>
+    <string name="information_text1">What is Stress?</string>
+    <string name="information_text2"><b>People use the word “stress” to mean two things (at least):</b>  one is the things that happen in life that are challenging in one way or another—what we might call “life stress” or stressors.   Most of the time people talk about hard things as stress:  losing a job, or breaking up a relationship, or too much work.  Good things also create stress, though:  getting married, moving house, having a baby—you can probably relate to how all of those things add up and create a sense of pressure, or challenge, or…stress.  A reasonable amount of life stress is fine—it’s part of being engaged, of living a full life.  But too much can put you on overload, and lead to the second way of talking about stress.
+	\n\n<b>That second meaning of stress</b> comes into play when people say “I’m stressed out!” or “Too much stress!”.  This is using “stress” as a word to describe a feeling, and a set of reactions to things that are happening.  It’s really a set of things we feel—maybe physical tension, worry, frustration, butterflies, maybe sadness or disappointment all tangled up together in a bundle.  
+	\n\n<b>How you react</b>—now much stress you feel—in response to any particular stressor (say, moving house) depends on how well you feel you can cope—whether there are things you can do to manage, what kinds of resources you have to help you, and what’s going on around you—how much else you have to deal with.
+	\n\n<b>Suppose you are moving</b> house in two weeks.  You are six months pregnant.  Scenario one:  You have stopped work; your partner is still working, but he’s home by six every day, and he plans to take a week off before the move.  Your family lives nearby, and you’re having a big packing up party this weekend; you have hired a cleaner to come in after you’re out and clean the old place the day after you’re out. Your partner’s workmates are all coming over on moving day, with a van.  You’ve been planning the baby’s bedroom, and have nearly all the furniture.  Your partner is going to go in and paint the room before you move in.  You’re excited about the new house, and looking forward to planting a garden.  Yes, it’s stressful, but mostly in an exciting, moving forward sort of way.
+	\n\n<b>Scenario two:</b>  You’re moving in two weeks.  You’ve had a difficult pregnancy with lots of morning sickness, which seems finally to be under control, but you still can’t be sure when you’ll need to run to the toilet.  Your partner is supportive but he works two jobs, and needs to save his time off for after the baby comes.  You are still working full time.  You need to be out of your house by Sunday, because they’ve sold it out from under you, and you only get access to your new house on Saturday, so you need to move everything on Saturday and then clean the old house, unpack the new one, and go back to work on Monday. On top of that, when you were a child, your family moved around a lot—like twice a year—and you always found it really hard to settle and make friends—you hated moving.  You’re just moving across town, to a nicer suburb and a bigger house, but it feels like an upheaval. Just thinking about it makes you feel sick.  	
+\n\n<b>Same stressor:</b>  moving house.  It makes a big difference, though, what you think and feel about it, and what support you have.  If you have people around you can rely on, and financial and practical resources, the move was your choice, and you have steps to take to manage the process, it’s all OK.  If you’re on your own—practically and emotionally—and feeling overwhelmed, it feels like STRESS!
+\n\n<b>There are things</b> you can do to break down and manage that stress—that is what this program is all about.  For right now, the point is just that what feels like stress depends on the circumstances.  Stressors—even hard, sad stressors, like a divorce or bereavement—don’t automatically translate into overload.  But even what some people might see as small stressors (what we’re not supposed to sweat) can blow up into overwhelming roadblocks if the circumstances (external and internal) are all wrong.
+\n\n<b>For now, we will call</b> the stuff that happens “stressors”, and how we react “stress”.  </string>
+    <string name="information_text3">Stress and the Body</string>
+    <string name="information_text4"><b>One part of your response to stressors is firmly physiological—</b>It’s your body’s built-in response to emergency.  The body responds to our modern-day emergencies (yikes, I forgot to pay the Visa bill) using the same old system that was built for scary emergencies (yikes, a tiger!).  It’s sometimes called the “fight or flight” reaction, or the “fight, flight, or freeze” reaction—that last reaction, to freeze, is sometimes forgotten, but may be especially pertinent when we are feeling helpless or out of control.
+	\n\n<b>In the ‘fight or flight’</b> part of the response, once some part of your brain (really quickly, at a subconscious level) thinks there is an emergency going on—in other words, stressors overloading your resources—your old-fashioned stress response system starts working to help you survive the tiger attack.  Your autonomic nervous system—an automatic response—revs up, and usually, the sympathetic branch of that system pumps up to prepare you to get out of the way.  Your heart rate increases, your blood pressure goes up, your muscles tense and your pupils dilate—all to help you in your desperate dash, or cornered fight, with the tiger.  Some parts of your system that are not essential to immediate escape—digestion, immune system, the ability to attend to small details—are shut down.  In the jungle, this all happened really quickly, and the danger either did you in or passed within a matter of minutes.  So, too, your stress response—it would have all been over by the time you finished reading this paragraph.
+	\n\n<b>The ‘freeze’ or, sometimes called ‘fright’</b> response, is a bit different—for creatures in situations where they cannot fight or run—like a cornered possum—there may be a chance of survival if you go limp—immobile, but still alert.  Playing dead, but not consciously—automatically, like when we say we were ‘paralyzed’ with fear.  You are physically frozen, but mentally all systems are still go.  In some people, in some situations, there may be another reaction:  to faint, and go completely limp and unconscious.  This response, which seems to be inherited, is more common among women and children, and some argue that it may have helped us survive in prehistoric times, for example, when non-combatants were threatened in the midst of battle.  In any case, all of these stress responses have in common that they cause big physiological changes in your body, and start a cascade of hormonal reactions, all of which are meant to help us survive in the moment.
+	\n\n<b>With our modern stressors</b>, though, the moment is often really, really long, in biological terms.  These stressors—changing jobs, buying a house, losing a loved one—are not really what the system was developed for, and the physiological changes that might help in the jungle emergency don’t really help us when they go on for days or weeks.  In fact, they often hurt us—you need your gastrointestinal system and your immune system to be working.  
+	\n\n<b>The stress response system</b> is really complicated, and fascinating—if you are interested in more details on how it works, see some of the resources listed below.  The take-home message for the moment, though, is that it makes sense that we have a response to stress, but that response can backfire when we’re exposed to stressors and keep on stressing.  This is even more the case in pregnancy, because there are two people’s systems involved, and interacting, and the stress hormones play an even more complicated role in pregnancy.
+	\n\n<b>You may have heard</b>, then, that stress is bad for you in pregnancy—yikes, don’t stress!  Yes, too much stress may have a negative effect in pregnancy—that’s the whole reason for this app—but there is no magic line that says THIS IS TOO MUCH!  We all have stress, and pregnant women in particular are in a time of change and anticipation…that’s stress.  It’s okay.  What matters is finding the steps you can take to manage the things that are stressors for you—finding your own resources, supports, ways of coping, and understanding your own tigers.  You might find that some of them can be tamed, and some aren’t really that interested in eating you, after all.  Even if there is a stressor that won’t go away, figuring out the things you can do to take care of yourself, and to counteract your mind and body’s automatic emergency reactions, can make a difference.</string>
+    <string name="information_text5">Coping with Stress</string>
+    <string name="information_text6"><b>This is what this app is all about—making choices,</b> feeling you have a choice—finding out where your choices are, what your resources are, what you can do.  The more you can notice the choices you have, the more you feel in control, and can get yourself onto a virtuous cycle—the opposite of a vicious cycle.  If you can see your options, and make choices about what you can do to keep yourself healthy and steady, then you are more likely to notice the things that are going well, and other things you can do to keep yourself on an even keel.  If you start to feel you have no choice—paralyzed, frozen, helpless—that’s when you might especially need a reminder of the many different things that might just help.  
+	\n\n<b>Stress is everywhere</b>—millions…billions…of people have been muddling through life for generations, and we have actually come up with some pretty good ways of dealing with stress.  Lots and lots of ways, and different ones will work well for different people, for different stressors.  If one doesn’t work, there are others to try.  There is no one best way to cope with your situation—there are dozens of possible ways; it may take some trial and error to find what works for you.
+	\n\n<b>One way different strategies</b> of coping with stress have been described is by splitting them into “emotion-focused” strategies and “problem-focused” strategies.  Problem-focused strategies are those that focus on the problem—often something outside yourself—and try different things to solve it.  For example, if you are not sleeping, you might confront the problem head-on:  learn about sleep hygiene, and make sure your sleeping environment is the best it can be.  If your partner snores, try earplugs.  Poke him.  Consult a doctor about why he’s snoring.  Cut out caffeine after 5:00 pm.  Get one of those giant pillows and use it to support your growing belly.
+ 	\n\n<b>Emotion-focused strategies</b> centre on changing how you feel and think.  If you are worrying about not sleeping, you might try to distract yourself by listening to music.  You might vent your frustration about your partner’s snoring to a sympathetic friend, or write about your worries to try to get them out of your head before bed.  
+	\n\n<b>One or the other style</b> isn’t necessarily better—it depends on the situation, and what works for you. Most of the time, we probably use a combination of strategies.   If you have gestational diabetes, for example, putting it out of your mind might not be a very good frontline strategy—but after you’ve learned all about it, modified your diet, and there is nothing else practical you can do, it might be helpful to try to distract yourself from worries, and use meditation, prayer, or watching a funny movie to cope with the anxiety that the diagnosis stirs up.
+	\n\n<b>In general, problem-focused strategies</b> are more likely to be used when the stressor is something you have some control over—like moving house, or getting married.  Emotion-focused strategies can be useful when the stressor is out of your control—something you just have to accept, one way or another, like a bereavement.  Lots of times, though, it isn’t so clear cut.  You are suddenly diagnosed with high blood pressure.  It seems terribly out of control—you can’t even tell you have it, without some medical contraption.  You may be put in the hospital, but you don’t feel sick.  What can you do?  
+	\n\n<b>One thing you can do</b> is take control of your reactions—even a little bit.  You can listen to your favourite music; you can read a book that makes you laugh.  You can ask your partner to rub your back.  These won’t solve the problem, but they might make you feel better.  And, because the mind and the body aren’t actually that separate, that might also help, just a little bit, to solve the problem.  If you were able to use slow, deep breathing to relax, it might make you feel better, and also it might coax your parasympathetic nervous system—the opposite of the fight/flight/freeze system—to come out of hiding.  You might be able to tell your body, at a subconscious level, that it isn’t really an emergency.  And that might help, just a bit, to decrease your blood pressure, and to get you out of the vicious loop of stress and reaction and tension and worse stress.  It won’t fix everything, but it might be one piece of the puzzle, and every little bit helps.
+	\n\n<b>This app provides you with tools</b> to help you to sort out which strategies might work for you, and to understand your own strengths, resources, stressors, and choices.  It’s a message, in your pocket, any time, to remind you that there are things you can do to feel better, to take care of yourself and your baby, and to tame the tiger STRESS.
+
+
+\n\n\n\n<b>References:</b>\n\n<b>Bracha, H. Stefan.</b> 2004. Freeze, flight, fight, fright, faint:  Adaptationist perspectives on acute stress response spectrum.  CNS Spectrums, 9, 679-685.
+\n\n<b>Sapolsky, R.</b> 2004 Why zebras don’t get ulcers.  …	</string>
+    <string name="title_activity_about_us">About</string>
+    <string name="abouts"><b>Positively Pregnant</b> was developed to support women’s psychological wellbeing in the transition to motherhood.  The development team includes:
+\n\nCarrie Cornsweet Barber, School of Psychology, University of Waikato (ccbarber@waikato.ac.nz)
+\n\nAnnika Hinze, School of Computer Science, University of Waikato (annika.hinze@gmail.com)
+\n\nBridgette Masters-Awatere, School of Psychology, University of Waikato (bridge@waikato.ac.nz) 
+\n\nClaire Timpany, Faculty of Computing and Mathematical Sciences, University of Waikato (ctimpany@cs.waikato.ac.nz)
+ \n\nFunding for this project was provided by the Faculties of Arts and Social Sciences and Computing and Mathematical Sciences, University of Waikato.</string>
+
+</resources>

@@ -1,0 +1,77 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="android:windowBackground">@drawable/biofeedback_background</item>
+        <item name="android:typeface">sans</item>
+    </style>
+
+    <!-- welcome text in purple. -->
+    <style name="purple" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#8F5E99</item>
+    </style>
+
+    <style name="MediumSmall">
+        <item name="android:textSize">16sp</item>
+    </style>
+    <!-- infotext in purple. -->
+    <style name="purpleBG" parent="@style/MediumSmall">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">#668F5E99</item>
+        <item name="android:textColor">#ff5b3e63</item>
+    </style>
+    <!-- infotext in purple. -->
+    <style name="purpleBGList" parent="@style/MediumSmall">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/drop_down_list_item</item>
+        <item name="android:textColor">#ff5b3e63</item>
+    </style>
+
+    <!-- infotext in purple. -->
+    <style name="purpleBGListEdit" parent="@style/MediumSmall">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#ff5b3e63</item>
+    </style>
+
+    <!-- subheadings in purple. -->
+    <style name="purpleSubHeading" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">#8F5E99</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <!-- subheadings in purple. -->
+    <style name="purpleSubHeadingList" parent="@style/MediumSmall">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">#8F5E99</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- myButton shape -->
+    <style name="myButton" parent="@android:style/TextAppearance.Medium">
+        <item name="android:height">20dp</item>
+    </style>
+
+</resources>

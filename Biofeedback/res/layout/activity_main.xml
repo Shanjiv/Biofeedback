@@ -1,0 +1,81 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/MainMenu"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center_vertical"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/imgLogo"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:adjustViewBounds="true"
+        android:gravity="center_horizontal"
+        android:maxHeight="100dp"
+        android:maxWidth="100dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/biofeedback_logo" />
+
+    <TextView
+        android:id="@+id/welcome"
+        style="@style/purple"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:text="@string/welcome_welcome"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="40sp"
+        android:textStyle="bold|italic" />
+
+    <TextView
+        android:id="@+id/welcome_text"
+        style="@style/purple"
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="@string/welcome_heading" />
+
+    <Button
+        android:id="@+id/buttonSelfAssessment"
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/purple_button"
+        android:onClick="startSelfAssessment"
+        android:text="@string/title_activity_self_assessment"
+        android:textColor="@color/white"
+        android:width="270dp" />
+
+    <Button
+        android:id="@+id/buttonDoing"
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/purple_button"
+        android:onClick="startDoing"
+        android:singleLine="false"
+        android:text="@string/title_activity_doing"
+        android:textColor="@color/white"
+        android:width="270dp" />
+
+    <Button
+        android:id="@+id/ButtonInformation"
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/purple_button"
+        android:enabled="true"
+        android:onClick="startInformation"
+        android:text="@string/title_activity_information"
+        android:textColor="@color/white"
+        android:width="270dp" />
+
+</LinearLayout>

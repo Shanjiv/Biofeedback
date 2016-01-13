@@ -1,0 +1,90 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:weightSum="1"
+    tools:context=".InformationActivity" >
+
+    <TextView
+        android:id="@+id/textSubheading"
+        style="@style/purpleSubHeading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:paddingTop="10dp"
+        android:text="@string/title_activity_strength_reminders" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textSubheading"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:weightSum="1" >
+
+        <TextView
+            android:id="@+id/reminderText1"
+            style="@style/purpleBG"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="10dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingTop="10dp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="5dp"
+            android:background="@android:color/transparent" />
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent" >
+
+            <Button
+                android:id="@+id/buttonRandom"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_gravity="right"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/purple_button"
+                android:gravity="center"
+                android:text="NEXT >>>"
+                android:textColor="@color/white"
+                android:width="270dp" />
+
+            <Button
+                android:id="@+id/buttonBack"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_gravity="left"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/purple_button"
+                android:gravity="center"
+                android:text="@string/back"
+                android:textColor="@color/white"
+                android:width="270dp" />
+        </RelativeLayout>
+
+        <Button
+            android:id="@+id/buttonActivity"
+            android:layout_width="220dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/purple_button"
+            android:gravity="center"
+            android:text="Self Assessment Strategies"
+            android:textColor="@color/white"
+            android:visibility="invisible"
+            android:width="270dp" />
+    </LinearLayout>
+
+</RelativeLayout>
